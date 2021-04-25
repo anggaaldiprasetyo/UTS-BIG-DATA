@@ -1,0 +1,5 @@
+kalimat = input("Masukan Kalimat :")
+file = kalimat.split()
+jumlah=len(file)
+print(file)
+print("jumlah kata", jumlah)
